@@ -1,0 +1,12 @@
+*.DS_Store
+*.csv
+*.ipynb_checkpoints
+*.tar.gz
+*.swp
+*.swo
+MNIST_data
+
+udacity_deeplearning/*
+!udacity_deeplearning/*.ipynb
+
+
